@@ -1,6 +1,9 @@
 # Práctica de IoT Realizada por alumnos del Samsung Tech Institute del curso Internet de las Cosas (UPM)  
 
-Realizada por Eva Jurado Cortés (evajuradocortes@yahoo.es) y Tomás Lorenzo Henriques Vázquez (tomashenriques.kp@gmail.com)
+Realizada por:
+
+* Eva Jurado Cortés (evajuradocortes@yahoo.es)
+* Tomás Lorenzo Henriques Vázquez (tomashenriques.kp@gmail.com)
 
 # Termostato Conectado
 
