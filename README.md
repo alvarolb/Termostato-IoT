@@ -1,3 +1,7 @@
+# Práctica de IoT Realizada por alumnos del Samsung Tech Institute del curso Internet de las Cosas (UPM)  
+
+Realizada por Eva Jurado Cortés (evajuradocortes@yahoo.es) y Tomás Lorenzo Henriques Vázquez (tomashenriques.kp@gmail.com)
+
 # Termostato Conectado
 
 Vamos a diseñar un termostato conectado que será capaz de controlar la temperatura y la humedad ambiente de nuestra casa. Para ello contaremos con una caldera y un humidificador. Además, este termostato contará con algunas funciones sociales, y reacciones "inteligentes".
